@@ -1,0 +1,5 @@
+
+
+A simple kinesis reader
+
+
